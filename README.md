@@ -8,6 +8,8 @@ I'm a passionate developer with expertise in Flutter, ReactJS, NodeJS and DevOps
 
 <br />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=20it120-jimmy&label=Profile%20views&color=0e75b6&style=flat" alt="20it120-jimmy" /> </p>
+
 ### 🧐 More About Me:
 
 <img align="right" alt="GIF" src="assets/programmer.gif" width="50%" />
