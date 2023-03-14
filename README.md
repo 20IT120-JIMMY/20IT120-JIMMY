@@ -25,14 +25,14 @@ I'm a passionate developer with expertise in Flutter, ReactJS, NodeJS and DevOps
 <p align="center">
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/sahilsojitra/"><img title="LinkedIn" src="https://github.com/20IT120-JIMMY/Jimmy0912/blob/main/assets/Icons/linkedin.svg"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jimmyramani/"><img title="LinkedIn" src="https://github.com/20IT120-JIMMY/Jimmy0912/blob/main/assets/Icons/linkedin.svg"/></a>&nbsp;&nbsp;
 <a href="https://github.com/20IT120-JIMMY"><img title="GitHub" src="https://github.com/20IT120-JIMMY/Jimmy0912/blob/main/assets/Icons/github.svg"/></a>&nbsp;&nbsp;
 <hr/>
 <!--
 <hr>
 <h2>Watch my contributions graph eaten by snake 🐍</h2>
 <div align="center">
-<a href="https://github.com/SahilPatel146">
+<a href="https://github.com/20IT120-JIMMY">
     <img src="https://github.com/20IT120-JIMMY/Jimmy0912/blob/output/github-contribution-grid-snake.gif" width="100%">
   </a>
 </div>
@@ -49,7 +49,7 @@ I'm a passionate developer with expertise in Flutter, ReactJS, NodeJS and DevOps
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=20IT120-JIMMY&layout=compact&theme=radical" />
 </p>
 <!-- 
-<h2 align='center'><i><a href="https://github.com/SahilPatel146">Activity Graph 📈</i></h2>
+<h2 align='center'><i><a href="https://github.com/20IT120-JIMMY">Activity Graph 📈</i></h2>
 <p align="center">
   <a href="https://github.com/20IT120-JIMMY">
     <img
