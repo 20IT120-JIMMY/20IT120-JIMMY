@@ -49,9 +49,11 @@ I'm a passionate developer with expertise in Flutter, ReactJS, NodeJS and DevOps
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/20IT120-JIMMY?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@jimmyramani](https://medium.com/@jimmyramani)
+- 📝 I regularly write articles on [Medium](https://medium.com/@jimmyramani)
 
-- 📫 How to reach me **jimmy.ramani.0912@gmail.com** Or 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jimmyramani/)`
+- 📫 How to reach me **jimmy.ramani.0912@gmail.com** 
+
+- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jimmyramani/)`
 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 
