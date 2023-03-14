@@ -38,7 +38,7 @@ I'm a passionate developer with expertise in Flutter, ReactJS, NodeJS and DevOps
 </div>
 -->
 
-### Sahil's Github Stats
+### Jimmy's Github Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=20IT120-JIMMY&show_icons=true&theme=radical" />
