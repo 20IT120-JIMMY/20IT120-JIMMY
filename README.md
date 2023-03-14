@@ -55,7 +55,7 @@ I'm a passionate developer with expertise in Flutter, ReactJS, NodeJS and DevOps
 
 - 📫 How to reach me through [Mail](jimmy.ramani.0912@gmail.com)
 
-- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jimmyramani/)`
+- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jimmyramani/)
 
 - 💬 Ask me about anything tech related, I am happy to help
 
