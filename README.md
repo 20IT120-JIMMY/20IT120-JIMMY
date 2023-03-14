@@ -28,12 +28,3 @@ I'm a passionate developer with expertise in Flutter, ReactJS, NodeJS and DevOps
 <a href="https://www.linkedin.com/in/jimmyramani/"><img title="LinkedIn" src="https://github.com/20IT120-JIMMY/Jimmy0912/blob/main/assets/Icons/linkedin.svg"/></a>&nbsp;&nbsp;
 <a href="https://github.com/20IT120-JIMMY"><img title="GitHub" src="https://github.com/20IT120-JIMMY/Jimmy0912/blob/main/assets/Icons/github.svg"/></a>&nbsp;&nbsp;
 <hr/>
-<!--
-<hr>
-<h2>Watch my contributions graph eaten by snake 🐍</h2>
-<div align="center">
-<a href="https://github.com/20IT120-JIMMY">
-    <img src="https://github.com/20IT120-JIMMY/Jimmy0912/blob/output/github-contribution-grid-snake.gif" width="100%">
-  </a>
-</div>
--->
