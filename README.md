@@ -45,6 +45,8 @@ I'm a passionate developer with expertise in Flutter, ReactJS, NodeJS and DevOps
  <h1 align="center">Hi 👋, I'm Jimmy Ramani</h1>
 <h3 align="center">I'm a passionate developer with expertise in Flutter, Golang, and Competitive Programming. I love to code and solve complex problems. As a Flutter developer, I have experience building beautiful and responsive cross-platform mobile applications. I'm also skilled in Golang, which I use for building high-performance web applications and microservices. Additionally, I enjoy participating in competitive programming contests and have honed my problem-solving skills through various coding challenges. Let's connect and build something amazing together!✨</h3>
 
+<img align="right" alt="GIF" src="assets/programmer.gif" width="50%" />
+
 - 🌱 I’m currently learning **Flutter, ReactJS, NodeJS, DevOps**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/20IT120-JIMMY?tab=repositories)
