@@ -38,7 +38,7 @@ I'm a passionate developer with expertise in Flutter, ReactJS, NodeJS and DevOps
 </div>
 -->
 
-### Jimmy's Github Stats
+<!-- ### Jimmy's Github Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=20IT120-JIMMY&show_icons=true&theme=radical" />
@@ -72,7 +72,7 @@ I'm a passionate developer with expertise in Flutter, ReactJS, NodeJS and DevOps
 
   ## Visitor Count
   <a href="https://profile-counter.glitch.me/20IT120-JIMMY/count.svg"><img align="center"
-      src="https://profile-counter.glitch.me/20IT120-JIMMY/count.svg" alt="Jimmy's visitor count" /></a>
-</div>
+        src="https://profile-counter.glitch.me/20IT120-JIMMY/count.svg" alt="Jimmy's visitor count" /></a>
+  </div> -->
 
-<!-- <img src="assets/footer.png" alt="Footer image"> -->
+   <img src="assets/footer.png" alt="Footer image">
