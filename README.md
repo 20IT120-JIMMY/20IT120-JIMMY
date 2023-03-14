@@ -45,7 +45,7 @@ I'm a passionate developer with expertise in Flutter, ReactJS, NodeJS and DevOps
  
  
  <h1 align="center">Hi 👋, I'm Jimmy Ramani</h1>
-<h3 align="center">I'm a passionate developer with expertise in Flutter, Golang, and Competitive Programming. I love to code and solve complex problems. As a Flutter developer, I have experience building beautiful and responsive cross-platform mobile applications. I'm also skilled in Golang, which I use for building high-performance web applications and microservices. Additionally, I enjoy participating in competitive programming contests and have honed my problem-solving skills through various coding challenges. Let's connect and build something amazing together!✨</h3>
+<h3 align="center">I'm a passionate developer with expertise in Flutter, ReactJS, NodeJS and DevOps. As a Flutter developer, I have experience building beautiful and responsive cross-platform mobile applications. My area of Interest are App Designing and some what Web Designing, I have worked on a variety of App & Web projects throughout my academic career. I don’t want bound my knowledge, I want keep refresh my knowledge and stay update with this IT field!✨</h3>
 
 <img align="right" alt="GIF" src="assets/programmer.gif" width="50%" />
 
