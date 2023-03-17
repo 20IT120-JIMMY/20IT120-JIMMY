@@ -90,4 +90,4 @@ I'm a passionate developer with expertise in Flutter, ReactJS, NodeJS and DevOps
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=20it120-jimmy&show_icons=true&locale=en" alt="20it120-jimmy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=20it120-jimmy&" alt="20it120-jimmy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=20it120-jimmy&" alt="20it120-jimmy" /></p>
