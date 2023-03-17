@@ -66,9 +66,6 @@ I'm a passionate developer with expertise in Flutter, ReactJS, NodeJS and DevOps
 <br />
 <br />
 <br />
-<br />
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jimmyramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jimmyramani" height="30" width="40" /></a>
@@ -87,6 +84,8 @@ I'm a passionate developer with expertise in Flutter, ReactJS, NodeJS and DevOps
 <br />
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=20it120-jimmy&show_icons=true&locale=en&layout=compact" alt="20it120-jimmy" /></p>
+
+</br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=20it120-jimmy&show_icons=true&locale=en" alt="20it120-jimmy" /></p>
 
