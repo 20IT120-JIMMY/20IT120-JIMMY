@@ -43,7 +43,6 @@ I'm a passionate developer with expertise in Flutter, ReactJS, NodeJS and DevOps
  
  
  
- 
  <h1 align="center">Hi 👋, I'm Jimmy Ramani</h1>
 <h3 align="center">I'm a passionate developer with expertise in Flutter, ReactJS, NodeJS and DevOps. As a Flutter developer, I have experience building beautiful and responsive cross-platform mobile applications. My area of Interest are App Designing and some what Web Designing, I have worked on a variety of App & Web projects throughout my academic career. I don’t want bound my knowledge, I want keep refresh my knowledge and stay update with this IT field!✨</h3>
 <br />
@@ -87,7 +86,7 @@ I'm a passionate developer with expertise in Flutter, ReactJS, NodeJS and DevOps
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=20it120-jimmy&show_icons=true&locale=en&layout=compact" alt="20it120-jimmy" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=20it120-jimmy&show_icons=true&locale=en&layout=compact" alt="20it120-jimmy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=20it120-jimmy&show_icons=true&locale=en" alt="20it120-jimmy" /></p>
 
