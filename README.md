@@ -38,7 +38,7 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=jimmy-ramani-0912&show_icons=true&locale=en&layout=compact" alt="jimmy-ramani-0912"/></p>
+[//]: <> (<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=jimmy-ramani-0912&show_icons=true&locale=en&layout=compact" alt="jimmy-ramani-0912"/></p>)
 
 </br>
 </br>
