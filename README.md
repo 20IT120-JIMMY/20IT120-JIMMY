@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter, ReactJS, NodeJS, DevOps**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/20IT120-JIMMY?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/jimmy-ramani-0912?tab=repositories)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@jimmyramani)
 
