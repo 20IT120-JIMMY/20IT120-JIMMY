@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/jimmy-ramani-0912?tab=repositories)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@jimmyramani)
+- 📝 I am writing articles on [Medium](https://medium.com/@jimmyramani)
 
 - 📫 How to reach me through [Mail](mailto:jimmy.ramani.0912@gmail.com)
 
